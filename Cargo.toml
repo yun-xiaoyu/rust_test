@@ -1,0 +1,10 @@
+[package]
+name = "testSubmit_for_no_use"
+version = "0.1.0"
+authors = ["yun_xiaoyu"]
+edition = "2021"
+license = "MIT"
+description = "a test package,no role"
+repository = "https://github.com/yun-xiaoyu/rust_test.git"
+
+[dependencies]
